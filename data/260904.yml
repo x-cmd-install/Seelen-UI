@@ -7,7 +7,7 @@ about:
   head: 1f06673
   archived: false
   latestVersion: nightly
-  collectedAt: 2026-09-04T19:56:29Z
+  collectedAt: 2026-09-04T20:44:18Z
 timeline:
   created: 2024-02-16
   lastCommit: 2026-09-04
@@ -89,5 +89,88 @@ total:
   openIssue: 66
   commit: 2763
 ---
+path: /home/runner/.x-repo/github.com/eythaann/Seelen-UI
+collectedAt: 2026-09-04T20:44:22Z
+loc:
+  Yaml:
+    code: 68367
+    comments: 13
+    blanks: 488
+    files: 1466
+  Rust:
+    code: 36189
+    comments: 1244
+    blanks: 5283
+    files: 305
+  TypeScript:
+    code: 11905
+    comments: 1166
+    blanks: 2157
+    files: 226
+  Json:
+    code: 7632
+    comments: 0
+    blanks: 11
+    files: 11
+  Tsx:
+    code: 6680
+    comments: 55
+    blanks: 827
+    files: 74
+  Css:
+    code: 3132
+    comments: 59
+    blanks: 518
+    files: 51
+  Svelte:
+    code: 2838
+    comments: 6
+    blanks: 248
+    files: 93
+  Sass:
+    code: 2189
+    comments: 34
+    blanks: 430
+    files: 20
+  JavaScript:
+    code: 675
+    comments: 20
+    blanks: 132
+    files: 21
+  Svg:
+    code: 640
+    comments: 6
+    blanks: 22
+    files: 13
+  Toml:
+    code: 403
+    comments: 4
+    blanks: 25
+    files: 9
+  Html:
+    code: 306
+    comments: 1
+    blanks: 2
+    files: 27
+  Xml:
+    code: 140
+    comments: 4
+    blanks: 13
+    files: 1
+  PowerShell:
+    code: 111
+    comments: 22
+    blanks: 37
+    files: 4
+  Markdown:
+    code: 0
+    comments: 3201
+    blanks: 1651
+    files: 19
+total:
+  code: 145783
+  comments: 7891
+  blanks: 12731
+  files: 2340
 ---
 
