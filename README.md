@@ -7,7 +7,7 @@ The Fully Customizable Desktop Environment for Windows 10/11.
 - **Latest release**: `nightly` (2026-09-07)
 - **Last commit**: 2026-09-08
 - **License**: AGPL-3.0
-- **Stars**: 17749 · **Forks**: 591 · **Open issues**: 978 · **Contributors**: 50
+- **Stars**: 17755 · **Forks**: 590 · **Open issues**: 978 · **Contributors**: 50
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/Seelen-UI> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:56:09Z._
+_Last regenerated: 2026-09-09T05:42:29Z._
