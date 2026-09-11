@@ -2,12 +2,12 @@ about:
   description: "The Fully Customizable Desktop Environment for Windows 10/11."
   license: AGPL-3.0
   homepage: 
-  head: a7d5ba7
+  head: eaaea86
   archived: false
   latestVersion: "nightly"
   latestRelease: "v2.8.4"
   latestPrerelease: "nightly"
-  collectedAt: 2026-09-11T05:35:18Z
+  collectedAt: 2026-09-11T19:22:54Z
 timeline:
   created: 2024-02-16
   lastCommit: 2026-09-11
@@ -15,84 +15,84 @@ timeline:
   lastRelease: 2026-09-07
   lastPrerelease: 2024-10-13
 popularity:
-  star: 17774
-  watcher: 79
-  fork: 594
+  star: 17783
+  watcher: 77
+  fork: 596
   release: 194
   contributor: 50
-  pullRequest: 698
+  pullRequest: 699
   issue: 983
 language:
   Rust: 1616625
-  TypeScript: 679205
-  Svelte: 235200
+  TypeScript: 680084
+  Svelte: 235218
   CSS: 78509
-  SCSS: 55593
+  SCSS: 55592
   NSIS: 33098
   JavaScript: 21554
   HTML: 8997
   PowerShell: 6266
   RenderScript: 5
-totalBytes: 2735052
+totalBytes: 2735948
 recent:
   last30d:
     since: 2026-08-12
     release: 2
     mergedPR: 25
-    openPR: 4
-    closedIssue: 5
-    openIssue: 11
-    commit: 54
+    openPR: 5
+    closedIssue: 6
+    openIssue: 10
+    commit: 57
   last60d:
     since: 2026-07-13
     release: 5
     mergedPR: 68
-    openPR: 5
-    closedIssue: 11
-    openIssue: 14
-    commit: 163
+    openPR: 6
+    closedIssue: 12
+    openIssue: 13
+    commit: 166
   last90d:
     since: 2026-06-13
     release: 9
     mergedPR: 85
-    openPR: 6
-    closedIssue: 21
-    openIssue: 18
-    commit: 246
+    openPR: 7
+    closedIssue: 22
+    openIssue: 17
+    commit: 249
   last180d:
     since: 2026-03-15
     release: 26
     mergedPR: 195
-    openPR: 6
-    closedIssue: 86
-    openIssue: 25
-    commit: 637
+    openPR: 7
+    closedIssue: 87
+    openIssue: 24
+    commit: 640
   last360d:
     since: 2025-09-16
     release: 39
     mergedPR: 223
-    openPR: 7
-    closedIssue: 249
-    openIssue: 40
-    commit: 1024
+    openPR: 8
+    closedIssue: 250
+    openIssue: 39
+    commit: 1027
   last720d:
     since: 2024-09-21
     release: 100
     mergedPR: 444
-    openPR: 7
-    closedIssue: 839
-    openIssue: 63
-    commit: 1960
+    openPR: 8
+    closedIssue: 840
+    openIssue: 62
+    commit: 1963
 total:
   release: 194
   mergedPR: 450
-  openPR: 7
-  closedIssue: 919
-  openIssue: 64
-  commit: 2782
+  openPR: 8
+  closedIssue: 920
+  openIssue: 63
+  commit: 2785
 ---
 path: /home/runner/.x-repo/github.com/eythaann/Seelen-UI
-collectedAt: 2026-09-11T05:35:28Z
+collectedAt: 2026-09-11T19:23:02Z
 loc:
   Yaml:
     code: 68372
@@ -105,10 +105,10 @@ loc:
     blanks: 5543
     files: 315
   TypeScript:
-    code: 12097
-    comments: 1214
-    blanks: 2194
-    files: 230
+    code: 12126
+    comments: 1215
+    blanks: 2199
+    files: 231
   Json:
     code: 7632
     comments: 0
@@ -132,7 +132,7 @@ loc:
   Sass:
     code: 2189
     comments: 34
-    blanks: 430
+    blanks: 429
     files: 20
   JavaScript:
     code: 675
@@ -166,14 +166,14 @@ loc:
     files: 4
   Markdown:
     code: 0
-    comments: 3211
-    blanks: 1656
+    comments: 3214
+    blanks: 1658
     files: 19
 total:
-  code: 147930
-  comments: 8159
-  blanks: 13046
-  files: 2354
+  code: 147959
+  comments: 8163
+  blanks: 13052
+  files: 2355
 ---
 
 ---
