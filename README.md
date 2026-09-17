@@ -14,12 +14,12 @@ x install Seelen-UI
 
 ## Code insight
 
-Total: **143,991** lines of code across **2100** files in the top 5 languages.
+Total: **144,005** lines of code across **2100** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Yaml | 68,382 | 13 | 488 | 1466 |
-| Rust | 38,080 | 1,329 | 5,549 | 317 |
+| Rust | 38,094 | 1,332 | 5,550 | 317 |
 | TypeScript | 12,246 | 1,253 | 2,209 | 232 |
 | Json | 7,885 | 0 | 11 | 11 |
 | Tsx | 6,680 | 55 | 827 | 74 |
@@ -37,22 +37,22 @@ Total: **143,991** lines of code across **2100** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 17,812 · **Forks**: 598 · **Open issues**: 985 · **Contributors**: 51
+- **Stars**: 17,816 · **Forks**: 599 · **Open issues**: 986 · **Contributors**: 51
 
 ## Totals (cumulative)
 
-- **Releases**: 195 · **Merged PRs**: 452 · **Open PRs**: 7 · **Closed issues**: 927 · **Open issues**: 58 · **Commits**: 2798
+- **Releases**: 195 · **Merged PRs**: 457 · **Open PRs**: 7 · **Closed issues**: 928 · **Open issues**: 58 · **Commits**: 2804
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 3 | 27 | 4 | 6 | 11 | 59 |
-| last60d | 2026-07-18 | 6 | 69 | 4 | 12 | 13 | 153 |
-| 90d | 2026-06-18 | 9 | 80 | 6 | 23 | 17 | 240 |
-| last180d | 2026-03-20 | 25 | 186 | 6 | 81 | 22 | 617 |
-| 360d | 2025-09-21 | 40 | 225 | 7 | 246 | 36 | 1033 |
-| last720d | 2024-09-26 | 100 | 446 | 7 | 844 | 57 | 1976 |
+| 30d | 2026-08-18 | 3 | 32 | 4 | 7 | 11 | 65 |
+| last60d | 2026-07-19 | 6 | 74 | 4 | 12 | 13 | 159 |
+| 90d | 2026-06-19 | 9 | 85 | 6 | 24 | 17 | 246 |
+| last180d | 2026-03-21 | 25 | 190 | 6 | 79 | 22 | 623 |
+| 360d | 2025-09-22 | 40 | 230 | 7 | 246 | 36 | 1039 |
+| last720d | 2024-09-27 | 100 | 451 | 7 | 845 | 57 | 1982 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for Seelen-UI lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T06:09:01Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T06:03:30Z._
