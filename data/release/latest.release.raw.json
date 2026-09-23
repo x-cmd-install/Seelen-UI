@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1294,
       "digest": "sha256:f6331d6d9c7487a827ed32e7966f3a066f6dfdd12c0ecae2e114ade80172f1e7",
-      "download_count": 20177,
+      "download_count": 24927,
       "created_at": "2026-09-18T01:23:34Z",
       "updated_at": "2026-09-18T01:23:34Z",
       "browser_download_url": "https://github.com/eythaann/Seelen-UI/releases/download/v2.8.6/latest.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 41397173,
       "digest": "sha256:b29a36d2108caa5bd4523a6c496fc7039a577d66572c261eac5dbcb551f8426f",
-      "download_count": 122,
+      "download_count": 154,
       "created_at": "2026-09-19T00:29:53Z",
       "updated_at": "2026-09-19T00:29:55Z",
       "browser_download_url": "https://github.com/eythaann/Seelen-UI/releases/download/v2.8.6/Seelen.UI_2.8.6.0_arm64.Msix"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 42287368,
       "digest": "sha256:5a21fa2d96b3021f3ed33d210ed7b8fea50fd7c5189d0d65d3e6b95352f08b41",
-      "download_count": 307,
+      "download_count": 562,
       "created_at": "2026-09-19T00:29:46Z",
       "updated_at": "2026-09-19T00:29:48Z",
       "browser_download_url": "https://github.com/eythaann/Seelen-UI/releases/download/v2.8.6/Seelen.UI_2.8.6.0_x64.Msix"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 235788816,
       "digest": "sha256:f46c58c8830ec7757124f2deddb05b202bb076e45e5e22792ee8a5b9762e7b19",
-      "download_count": 136,
+      "download_count": 165,
       "created_at": "2026-09-18T01:23:04Z",
       "updated_at": "2026-09-18T01:23:17Z",
       "browser_download_url": "https://github.com/eythaann/Seelen-UI/releases/download/v2.8.6/Seelen.UI_2.8.6_arm64-setup-fixed.exe"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 43845936,
       "digest": "sha256:fc55735606a08df416ba4537ed74eea7aa0a9d829b5c315197af01efe741c833",
-      "download_count": 164,
+      "download_count": 187,
       "created_at": "2026-09-18T01:23:02Z",
       "updated_at": "2026-09-18T01:23:04Z",
       "browser_download_url": "https://github.com/eythaann/Seelen-UI/releases/download/v2.8.6/Seelen.UI_2.8.6_arm64-setup.exe"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 255532712,
       "digest": "sha256:e9cbe8bc836aa20943de7d1fd148cbc8a1f2085c4314ac2953f9c509b4e3f200",
-      "download_count": 354,
+      "download_count": 417,
       "created_at": "2026-09-18T01:22:53Z",
       "updated_at": "2026-09-18T01:23:01Z",
       "browser_download_url": "https://github.com/eythaann/Seelen-UI/releases/download/v2.8.6/Seelen.UI_2.8.6_x64-setup-fixed.exe"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 46541128,
       "digest": "sha256:3fca157a9c69d13139acfb86682963a1e291c02c7b1bb19b9d39a9ad01c5a509",
-      "download_count": 5444,
+      "download_count": 6582,
       "created_at": "2026-09-18T01:22:50Z",
       "updated_at": "2026-09-18T01:22:52Z",
       "browser_download_url": "https://github.com/eythaann/Seelen-UI/releases/download/v2.8.6/Seelen.UI_2.8.6_x64-setup.exe"
