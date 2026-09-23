@@ -4,7 +4,7 @@
 
 The Fully Customizable Desktop Environment for Windows 10/11.
 
-[![x-cmd/install — Seelen-UI Code Quality Monitoring Repo Card](https://repo.x-cmd.io/Seelen-UI.svg?lang=zh)](https://x-cmd.com/install/Seelen-UI)
+[![x-cmd/install — Seelen-UI Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/Seelen-UI.svg?lang=zh)](https://x-cmd.com/install/Seelen-UI)
 
 ## 安装
 
@@ -14,13 +14,13 @@ x install Seelen-UI
 
 ## 代码洞察
 
-合计: **147,677** 行代码（覆盖前 5 种语言、共 **2101** 个文件）。
+合计: **147,826** 行代码（覆盖前 5 种语言、共 **2101** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Yaml | 71,140 | 13 | 488 | 1466 |
-| Rust | 38,647 | 1,360 | 5,606 | 317 |
-| TypeScript | 12,338 | 1,300 | 2,226 | 233 |
+| Rust | 38,809 | 1,375 | 5,599 | 317 |
+| TypeScript | 12,316 | 1,302 | 2,225 | 233 |
 | Json | 7,885 | 0 | 11 | 11 |
 | Tsx | 6,867 | 54 | 842 | 74 |
 
@@ -32,27 +32,27 @@ x install Seelen-UI
 ## 发布
 
 - **最新版本**: `nightly` (2026-09-18)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 17,851 · **Fork**: 606 · **开放 issue**: 993 · **贡献者**: 54
+- **Star**: 17,862 · **Fork**: 606 · **开放 issue**: 993 · **贡献者**: 54
 
 ## 累计统计
 
-- **发布数**: 196 · **已合并 PR**: 467 · **开放 PR**: 9 · **已关闭 issue**: 944 · **开放 issue**: 49 · **提交数**: 2829
+- **发布数**: 196 · **已合并 PR**: 469 · **开放 PR**: 8 · **已关闭 issue**: 944 · **开放 issue**: 49 · **提交数**: 2833
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 4 | 35 | 5 | 18 | 6 | 80 |
-| last60d | 2026-07-24 | 6 | 75 | 6 | 20 | 9 | 133 |
-| 90d | 2026-06-24 | 8 | 92 | 8 | 35 | 12 | 252 |
-| last180d | 2026-03-26 | 25 | 190 | 8 | 88 | 15 | 626 |
-| 360d | 2025-09-27 | 41 | 240 | 9 | 259 | 27 | 1038 |
-| last720d | 2024-10-02 | 100 | 461 | 9 | 855 | 48 | 2007 |
+| 30d | 2026-08-24 | 4 | 37 | 4 | 18 | 6 | 84 |
+| last60d | 2026-07-25 | 6 | 77 | 5 | 20 | 9 | 137 |
+| 90d | 2026-06-25 | 8 | 94 | 7 | 35 | 12 | 256 |
+| last180d | 2026-03-27 | 25 | 192 | 7 | 88 | 15 | 630 |
+| 360d | 2025-09-28 | 41 | 242 | 8 | 259 | 27 | 1042 |
+| last720d | 2024-10-03 | 100 | 463 | 8 | 855 | 48 | 2011 |
 
 ## Release 资产
 
@@ -75,4 +75,4 @@ Seelen-UI 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:59:59Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:17:06Z._
