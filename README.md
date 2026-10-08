@@ -14,15 +14,15 @@ x install Seelen-UI
 
 ## Code insight
 
-Total: **151,616** lines of code across **2113** files in the top 5 languages.
+Total: **152,559** lines of code across **2120** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Yaml | 71,808 | 13 | 486 | 1466 |
-| Rust | 41,407 | 1,500 | 5,886 | 324 |
-| TypeScript | 12,488 | 1,311 | 2,257 | 238 |
-| Json | 7,984 | 0 | 11 | 11 |
-| Tsx | 6,876 | 54 | 842 | 74 |
+| Yaml | 72,054 | 13 | 487 | 1469 |
+| Rust | 41,988 | 1,524 | 5,964 | 326 |
+| TypeScript | 12,550 | 1,314 | 2,267 | 239 |
+| Json | 7,988 | 0 | 11 | 11 |
+| Tsx | 6,928 | 54 | 848 | 75 |
 
 ## Source
 
@@ -31,28 +31,28 @@ Total: **151,616** lines of code across **2113** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.8.8` (2026-10-06)
-- **Last commit**: 2026-10-05
+- **Latest**: `nightly` (2026-10-06)
+- **Last commit**: 2026-10-08
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 17,960 · **Forks**: 617 · **Open issues**: 1,009 · **Contributors**: 58
+- **Stars**: 17,965 · **Forks**: 619 · **Open issues**: 1,010 · **Contributors**: 58
 
 ## Totals (cumulative)
 
-- **Releases**: 198 · **Merged PRs**: 497 · **Open PRs**: 7 · **Closed issues**: 960 · **Open issues**: 49 · **Commits**: 2903
+- **Releases**: 198 · **Merged PRs**: 507 · **Open PRs**: 6 · **Closed issues**: 964 · **Open issues**: 46 · **Commits**: 2919
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 5 | 51 | 4 | 13 | 16 | 121 |
-| last60d | 2026-08-08 | 6 | 79 | 5 | 25 | 19 | 184 |
-| 90d | 2026-07-09 | 9 | 115 | 6 | 33 | 21 | 294 |
-| last180d | 2026-04-10 | 27 | 197 | 7 | 88 | 24 | 648 |
-| 360d | 2025-10-12 | 42 | 270 | 7 | 257 | 28 | 1086 |
-| last720d | 2024-10-17 | 92 | 484 | 7 | 842 | 46 | 1901 |
+| 30d | 2026-09-08 | 4 | 61 | 3 | 17 | 12 | 137 |
+| last60d | 2026-08-09 | 6 | 88 | 4 | 29 | 15 | 200 |
+| 90d | 2026-07-10 | 9 | 124 | 5 | 36 | 17 | 310 |
+| last180d | 2026-04-11 | 27 | 206 | 6 | 90 | 21 | 664 |
+| 360d | 2025-10-13 | 42 | 280 | 6 | 260 | 25 | 1102 |
+| last720d | 2024-10-18 | 92 | 492 | 6 | 840 | 43 | 1917 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for Seelen-UI lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:43:18Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:56:36Z._
