@@ -14,13 +14,13 @@ x install Seelen-UI
 
 ## 代码洞察
 
-合计: **154,897** 行代码（覆盖前 5 种语言、共 **2128** 个文件）。
+合计: **156,200** 行代码（覆盖前 5 种语言、共 **2131** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Yaml | 72,992 | 13 | 486 | 1469 |
-| Rust | 43,114 | 1,538 | 6,129 | 333 |
-| TypeScript | 12,775 | 1,332 | 2,305 | 240 |
+| Yaml | 73,847 | 13 | 486 | 1471 |
+| Rust | 43,527 | 1,553 | 6,174 | 334 |
+| TypeScript | 12,789 | 1,332 | 2,310 | 240 |
 | Json | 7,988 | 0 | 11 | 11 |
 | Tsx | 6,928 | 54 | 848 | 75 |
 
@@ -31,40 +31,38 @@ x install Seelen-UI
 
 ## 发布
 
-- **最新版本**: `nightly` (2026-10-06)
-- **最近提交**: 2026-10-11
-- **Release 含资产**: 7 个
+- **最新版本**: `v2.8.9` (2026-10-12)
+- **最近提交**: 2026-10-12
+- **Release 含资产**: 5 个
 
 ## 流行度
 
-- **Star**: 17,990 · **Fork**: 621 · **开放 issue**: 1,009 · **贡献者**: 58
+- **Star**: 18,002 · **Fork**: 622 · **开放 issue**: 1,011 · **贡献者**: 58
 
 ## 累计统计
 
-- **发布数**: 198 · **已合并 PR**: 507 · **开放 PR**: 6 · **已关闭 issue**: 966 · **开放 issue**: 43 · **提交数**: 2929
+- **发布数**: 199 · **已合并 PR**: 507 · **开放 PR**: 7 · **已关闭 issue**: 967 · **开放 issue**: 44 · **提交数**: 2933
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 4 | 56 | 3 | 18 | 9 | 117 |
-| last60d | 2026-08-12 | 6 | 81 | 4 | 31 | 12 | 201 |
-| 90d | 2026-07-13 | 9 | 124 | 5 | 38 | 14 | 289 |
-| last180d | 2026-04-14 | 27 | 197 | 6 | 90 | 18 | 640 |
-| 360d | 2025-10-16 | 42 | 280 | 6 | 261 | 22 | 1111 |
-| last720d | 2024-10-21 | 91 | 489 | 6 | 810 | 40 | 1923 |
+| 30d | 2026-09-12 | 5 | 55 | 4 | 18 | 10 | 121 |
+| last60d | 2026-08-13 | 7 | 81 | 5 | 31 | 13 | 205 |
+| 90d | 2026-07-14 | 10 | 124 | 6 | 39 | 15 | 293 |
+| last180d | 2026-04-15 | 28 | 197 | 7 | 89 | 19 | 644 |
+| 360d | 2025-10-17 | 43 | 280 | 7 | 261 | 23 | 1115 |
+| last720d | 2024-10-22 | 92 | 486 | 7 | 805 | 41 | 1925 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [latest.json](https://github.com/eythaann/Seelen-UI/releases/download/v2.8.8/latest.json) | 1.3 KiB | `other` |
-| [Seelen.UI_2.8.8.0_arm64.Msix](https://github.com/eythaann/Seelen-UI/releases/download/v2.8.8/Seelen.UI_2.8.8.0_arm64.Msix) | 40.2 MiB | `other` |
-| [Seelen.UI_2.8.8.0_x64.Msix](https://github.com/eythaann/Seelen-UI/releases/download/v2.8.8/Seelen.UI_2.8.8.0_x64.Msix) | 41.1 MiB | `other` |
-| [Seelen.UI_2.8.8_arm64-setup-fixed.exe](https://github.com/eythaann/Seelen-UI/releases/download/v2.8.8/Seelen.UI_2.8.8_arm64-setup-fixed.exe) | 226.5 MiB | `other` |
-| [Seelen.UI_2.8.8_arm64-setup.exe](https://github.com/eythaann/Seelen-UI/releases/download/v2.8.8/Seelen.UI_2.8.8_arm64-setup.exe) | 43.4 MiB | `other` |
-| [Seelen.UI_2.8.8_x64-setup-fixed.exe](https://github.com/eythaann/Seelen-UI/releases/download/v2.8.8/Seelen.UI_2.8.8_x64-setup-fixed.exe) | 244.9 MiB | `other` |
-| [Seelen.UI_2.8.8_x64-setup.exe](https://github.com/eythaann/Seelen-UI/releases/download/v2.8.8/Seelen.UI_2.8.8_x64-setup.exe) | 45.6 MiB | `other` |
+| [latest.json](https://github.com/eythaann/Seelen-UI/releases/download/v2.8.9/latest.json) | 1.3 KiB | `other` |
+| [Seelen.UI_2.8.9_arm64-setup-fixed.exe](https://github.com/eythaann/Seelen-UI/releases/download/v2.8.9/Seelen.UI_2.8.9_arm64-setup-fixed.exe) | 227.0 MiB | `other` |
+| [Seelen.UI_2.8.9_arm64-setup.exe](https://github.com/eythaann/Seelen-UI/releases/download/v2.8.9/Seelen.UI_2.8.9_arm64-setup.exe) | 44.0 MiB | `other` |
+| [Seelen.UI_2.8.9_x64-setup-fixed.exe](https://github.com/eythaann/Seelen-UI/releases/download/v2.8.9/Seelen.UI_2.8.9_x64-setup-fixed.exe) | 245.6 MiB | `other` |
+| [Seelen.UI_2.8.9_x64-setup.exe](https://github.com/eythaann/Seelen-UI/releases/download/v2.8.9/Seelen.UI_2.8.9_x64-setup.exe) | 46.3 MiB | `other` |
 
 ## 改进这些数据
 
@@ -75,4 +73,4 @@ Seelen-UI 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261011.yml` · 2026-10-11T06:28:29Z._
+_数据快照: `data/card/261012.yml` · 2026-10-12T06:49:45Z._
