@@ -33,32 +33,34 @@ Total: **156,200** lines of code across **2131** files in the top 5 languages.
 
 - **Latest**: `v2.8.9` (2026-10-12)
 - **Last commit**: 2026-10-12
-- **Assets in release**: 5
+- **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 18,002 · **Forks**: 622 · **Open issues**: 1,011 · **Contributors**: 58
+- **Stars**: 18,016 · **Forks**: 625 · **Open issues**: 1,012 · **Contributors**: 58
 
 ## Totals (cumulative)
 
-- **Releases**: 199 · **Merged PRs**: 507 · **Open PRs**: 7 · **Closed issues**: 967 · **Open issues**: 44 · **Commits**: 2933
+- **Releases**: 199 · **Merged PRs**: 507 · **Open PRs**: 9 · **Closed issues**: 967 · **Open issues**: 45 · **Commits**: 2933
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 5 | 55 | 4 | 18 | 10 | 121 |
-| last60d | 2026-08-13 | 7 | 81 | 5 | 31 | 13 | 205 |
-| 90d | 2026-07-14 | 10 | 124 | 6 | 39 | 15 | 293 |
-| last180d | 2026-04-15 | 28 | 197 | 7 | 89 | 19 | 644 |
-| 360d | 2025-10-17 | 43 | 280 | 7 | 261 | 23 | 1115 |
-| last720d | 2024-10-22 | 92 | 486 | 7 | 805 | 41 | 1925 |
+| 30d | 2026-09-13 | 5 | 54 | 6 | 17 | 11 | 121 |
+| last60d | 2026-08-14 | 7 | 81 | 7 | 31 | 14 | 205 |
+| 90d | 2026-07-15 | 10 | 123 | 7 | 39 | 16 | 293 |
+| last180d | 2026-04-16 | 28 | 197 | 9 | 89 | 20 | 644 |
+| 360d | 2025-10-18 | 43 | 280 | 9 | 258 | 24 | 1115 |
+| last720d | 2024-10-23 | 92 | 484 | 9 | 797 | 42 | 1922 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
 | [latest.json](https://github.com/eythaann/Seelen-UI/releases/download/v2.8.9/latest.json) | 1.3 KiB | `other` |
+| [Seelen.UI_2.8.9.0_arm64.Msix](https://github.com/eythaann/Seelen-UI/releases/download/v2.8.9/Seelen.UI_2.8.9.0_arm64.Msix) | 40.8 MiB | `other` |
+| [Seelen.UI_2.8.9.0_x64.Msix](https://github.com/eythaann/Seelen-UI/releases/download/v2.8.9/Seelen.UI_2.8.9.0_x64.Msix) | 41.7 MiB | `other` |
 | [Seelen.UI_2.8.9_arm64-setup-fixed.exe](https://github.com/eythaann/Seelen-UI/releases/download/v2.8.9/Seelen.UI_2.8.9_arm64-setup-fixed.exe) | 227.0 MiB | `other` |
 | [Seelen.UI_2.8.9_arm64-setup.exe](https://github.com/eythaann/Seelen-UI/releases/download/v2.8.9/Seelen.UI_2.8.9_arm64-setup.exe) | 44.0 MiB | `other` |
 | [Seelen.UI_2.8.9_x64-setup-fixed.exe](https://github.com/eythaann/Seelen-UI/releases/download/v2.8.9/Seelen.UI_2.8.9_x64-setup-fixed.exe) | 245.6 MiB | `other` |
@@ -73,4 +75,4 @@ Install metadata for Seelen-UI lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:49:45Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:49:14Z._
