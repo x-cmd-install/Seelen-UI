@@ -32,27 +32,27 @@ Total: **156,551** lines of code across **2131** files in the top 5 languages.
 ## Release
 
 - **Latest**: `nightly` (2026-10-12)
-- **Last commit**: 2026-10-16
+- **Last commit**: 2026-10-21
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 18,106 · **Forks**: 642 · **Open issues**: 1,016 · **Contributors**: 58
+- **Stars**: 18,118 · **Forks**: 643 · **Open issues**: 1,016 · **Contributors**: 58
 
 ## Totals (cumulative)
 
-- **Releases**: 199 · **Merged PRs**: 514 · **Open PRs**: 8 · **Closed issues**: 969 · **Open issues**: 47 · **Commits**: 2944
+- **Releases**: 199 · **Merged PRs**: 515 · **Open PRs**: 8 · **Closed issues**: 968 · **Open issues**: 48 · **Commits**: 2945
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 3 | 45 | 5 | 12 | 13 | 101 |
-| last60d | 2026-08-21 | 7 | 81 | 6 | 33 | 16 | 203 |
-| 90d | 2026-07-22 | 9 | 121 | 6 | 37 | 18 | 267 |
-| last180d | 2026-04-23 | 26 | 194 | 8 | 88 | 22 | 622 |
-| 360d | 2025-10-25 | 43 | 287 | 8 | 255 | 25 | 1126 |
-| last720d | 2024-10-30 | 91 | 486 | 8 | 781 | 44 | 1924 |
+| 30d | 2026-09-21 | 3 | 46 | 5 | 12 | 14 | 102 |
+| last60d | 2026-08-22 | 7 | 82 | 6 | 33 | 17 | 204 |
+| 90d | 2026-07-23 | 9 | 122 | 6 | 37 | 19 | 268 |
+| last180d | 2026-04-24 | 26 | 194 | 8 | 88 | 23 | 623 |
+| 360d | 2025-10-26 | 43 | 288 | 8 | 255 | 26 | 1127 |
+| last720d | 2024-10-31 | 91 | 487 | 8 | 779 | 45 | 1925 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for Seelen-UI lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:38:58Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:33:41Z._
