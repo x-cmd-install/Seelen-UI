@@ -14,13 +14,13 @@ x install Seelen-UI
 
 ## 代码洞察
 
-合计: **160,317** 行代码（覆盖前 5 种语言、共 **2184** 个文件）。
+合计: **161,305** 行代码（覆盖前 5 种语言、共 **2190** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Yaml | 74,303 | 13 | 486 | 1472 |
-| Rust | 46,524 | 1,536 | 7,039 | 382 |
-| TypeScript | 13,008 | 1,367 | 2,339 | 241 |
+| Yaml | 74,307 | 13 | 486 | 1473 |
+| Rust | 47,258 | 1,536 | 7,083 | 383 |
+| TypeScript | 13,452 | 1,415 | 2,385 | 245 |
 | Json | 8,016 | 0 | 11 | 11 |
 | Tsx | 7,230 | 70 | 886 | 78 |
 
@@ -31,40 +31,40 @@ x install Seelen-UI
 
 ## 发布
 
-- **最新版本**: `nightly` (2026-10-22)
-- **最近提交**: 2026-11-16
+- **最新版本**: `nightly` (2026-11-16)
+- **最近提交**: 2026-11-17
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 18,517 · **Fork**: 673 · **开放 issue**: 1,043 · **贡献者**: 63
+- **Star**: 18,536 · **Fork**: 675 · **开放 issue**: 1,046 · **贡献者**: 64
 
 ## 累计统计
 
-- **发布数**: 200 · **已合并 PR**: 537 · **开放 PR**: 4 · **已关闭 issue**: 986 · **开放 issue**: 57 · **提交数**: 2987
+- **发布数**: 201 · **已合并 PR**: 538 · **开放 PR**: 4 · **已关闭 issue**: 994 · **开放 issue**: 52 · **提交数**: 2993
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 21 | 4 | 15 | 13 | 28 |
-| last60d | 2026-09-17 | 5 | 77 | 4 | 35 | 23 | 154 |
-| 90d | 2026-08-18 | 8 | 110 | 4 | 51 | 27 | 248 |
-| last180d | 2026-05-20 | 18 | 204 | 4 | 82 | 31 | 529 |
-| 360d | 2025-11-21 | 41 | 308 | 4 | 248 | 33 | 1115 |
-| last720d | 2024-11-26 | 90 | 502 | 4 | 789 | 54 | 1936 |
+| 30d | 2026-10-18 | 2 | 22 | 4 | 18 | 13 | 34 |
+| last60d | 2026-09-18 | 6 | 76 | 4 | 37 | 22 | 160 |
+| 90d | 2026-08-19 | 9 | 104 | 4 | 57 | 23 | 254 |
+| last180d | 2026-05-21 | 19 | 198 | 4 | 89 | 27 | 535 |
+| 360d | 2025-11-22 | 42 | 309 | 4 | 254 | 29 | 1121 |
+| last720d | 2024-11-27 | 90 | 503 | 4 | 795 | 49 | 1933 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [latest.json](https://github.com/eythaann/Seelen-UI/releases/download/v2.8.10/latest.json) | 1.3 KiB | `other` |
-| [Seelen.UI_2.8.10.0_arm64.Msix](https://github.com/eythaann/Seelen-UI/releases/download/v2.8.10/Seelen.UI_2.8.10.0_arm64.Msix) | 40.8 MiB | `other` |
-| [Seelen.UI_2.8.10.0_x64.Msix](https://github.com/eythaann/Seelen-UI/releases/download/v2.8.10/Seelen.UI_2.8.10.0_x64.Msix) | 41.8 MiB | `other` |
-| [Seelen.UI_2.8.10_arm64-setup-fixed.exe](https://github.com/eythaann/Seelen-UI/releases/download/v2.8.10/Seelen.UI_2.8.10_arm64-setup-fixed.exe) | 227.1 MiB | `other` |
-| [Seelen.UI_2.8.10_arm64-setup.exe](https://github.com/eythaann/Seelen-UI/releases/download/v2.8.10/Seelen.UI_2.8.10_arm64-setup.exe) | 44.1 MiB | `other` |
-| [Seelen.UI_2.8.10_x64-setup-fixed.exe](https://github.com/eythaann/Seelen-UI/releases/download/v2.8.10/Seelen.UI_2.8.10_x64-setup-fixed.exe) | 245.7 MiB | `other` |
-| [Seelen.UI_2.8.10_x64-setup.exe](https://github.com/eythaann/Seelen-UI/releases/download/v2.8.10/Seelen.UI_2.8.10_x64-setup.exe) | 46.4 MiB | `other` |
+| [latest.json](https://github.com/eythaann/Seelen-UI/releases/download/v2.8.11/latest.json) | 1.3 KiB | `other` |
+| [Seelen.UI_2.8.11.0_arm64.Msix](https://github.com/eythaann/Seelen-UI/releases/download/v2.8.11/Seelen.UI_2.8.11.0_arm64.Msix) | 40.9 MiB | `other` |
+| [Seelen.UI_2.8.11.0_x64.Msix](https://github.com/eythaann/Seelen-UI/releases/download/v2.8.11/Seelen.UI_2.8.11.0_x64.Msix) | 41.9 MiB | `other` |
+| [Seelen.UI_2.8.11_arm64-setup-fixed.exe](https://github.com/eythaann/Seelen-UI/releases/download/v2.8.11/Seelen.UI_2.8.11_arm64-setup-fixed.exe) | 227.2 MiB | `other` |
+| [Seelen.UI_2.8.11_arm64-setup.exe](https://github.com/eythaann/Seelen-UI/releases/download/v2.8.11/Seelen.UI_2.8.11_arm64-setup.exe) | 44.2 MiB | `other` |
+| [Seelen.UI_2.8.11_x64-setup-fixed.exe](https://github.com/eythaann/Seelen-UI/releases/download/v2.8.11/Seelen.UI_2.8.11_x64-setup-fixed.exe) | 245.9 MiB | `other` |
+| [Seelen.UI_2.8.11_x64-setup.exe](https://github.com/eythaann/Seelen-UI/releases/download/v2.8.11/Seelen.UI_2.8.11_x64-setup.exe) | 46.5 MiB | `other` |
 
 ## 改进这些数据
 
@@ -75,4 +75,4 @@ Seelen-UI 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T07:58:36Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T10:43:05Z._
