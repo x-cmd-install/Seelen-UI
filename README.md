@@ -37,22 +37,22 @@ Total: **161,320** lines of code across **2190** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 18,600 · **Forks**: 690 · **Open issues**: 1,052 · **Contributors**: 64
+- **Stars**: 18,608 · **Forks**: 693 · **Open issues**: 1,052 · **Contributors**: 64
 
 ## Totals (cumulative)
 
-- **Releases**: 201 · **Merged PRs**: 547 · **Open PRs**: 7 · **Closed issues**: 994 · **Open issues**: 58 · **Commits**: 3002
+- **Releases**: 201 · **Merged PRs**: 547 · **Open PRs**: 12 · **Closed issues**: 994 · **Open issues**: 58 · **Commits**: 3002
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 2 | 20 | 7 | 16 | 19 | 43 |
-| last60d | 2026-09-22 | 5 | 74 | 7 | 34 | 28 | 169 |
-| 90d | 2026-08-23 | 9 | 113 | 7 | 57 | 29 | 263 |
-| last180d | 2026-05-25 | 19 | 205 | 7 | 89 | 33 | 544 |
-| 360d | 2025-11-26 | 41 | 318 | 7 | 253 | 35 | 1130 |
-| last720d | 2024-12-01 | 88 | 508 | 7 | 791 | 55 | 1931 |
+| 30d | 2026-10-23 | 1 | 20 | 11 | 14 | 19 | 40 |
+| last60d | 2026-09-23 | 5 | 68 | 12 | 34 | 28 | 133 |
+| 90d | 2026-08-24 | 9 | 113 | 12 | 57 | 29 | 252 |
+| last180d | 2026-05-26 | 18 | 205 | 12 | 89 | 33 | 521 |
+| 360d | 2025-11-27 | 41 | 318 | 12 | 253 | 35 | 1123 |
+| last720d | 2024-12-02 | 88 | 507 | 12 | 790 | 55 | 1931 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for Seelen-UI lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:40:14Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T08:24:28Z._
